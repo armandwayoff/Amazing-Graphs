@@ -9,6 +9,7 @@ Programming and plotting graphs from the Numberphile *Amazing Graphs* series
   * [A002487 - Stern's Sequence](#a002487---sterns-sequence)
   * [A005185 - Hofstadter's Q Sequence](#a005185---hofstadters-q-sequence)
   * [A063543 - Wisteria](#a063543---wisteria)
+  * [A133058 - Fly Staight Dammit !](#a133058---fly-staight-dammit-!)
 * [How to use this Code](#how-to-use-this-code)
   * [Installing Matplotlib](#installing-matplotlib)
 
