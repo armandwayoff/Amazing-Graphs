@@ -10,6 +10,7 @@ Programming and plotting graphs from the Numberphile *Amazing Graphs* series
   * [A005185 - Hofstadter's Q Sequence](#a005185---hofstadters-q-sequence)
   * [A063543 - Wisteria](#a063543---wisteria)
   * [A133058 - Fly Staight Dammit !](#a133058---fly-staight-dammit-)
+  * [A265326 - Primes](#a265326---primes)
 * [How to use this Code](#how-to-use-this-code)
   * [Installing Matplotlib](#installing-matplotlib)
 
@@ -71,6 +72,17 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
 
   OEIS page : <https://oeis.org/A133058>.  
   Amazing Graphs - Numberphile : <https://youtu.be/pAMgUB51XZA?t=96>.
+  
+* ### A265326 - Primes
+  
+  #### Scatterplot of A265326(n)
+  
+  ![A265326](illustration_images/A265326.png)
+  
+  #### Useful links
+
+  OEIS page : <https://oeis.org/A265326>.  
+  Amazing Graphs - Numberphile : <https://youtu.be/pAMgUB51XZA?t=469>.
   
 ## How to use this Code
 
