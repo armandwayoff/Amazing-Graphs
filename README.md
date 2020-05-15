@@ -10,6 +10,7 @@ Programming and plotting graphs from the Numberphile *Amazing Graphs* series
   * [A005185 - Hofstadter's Q Sequence](#a005185---hofstadters-q-sequence)
   * [A063543 - Wisteria](#a063543---wisteria)
   * [A133058 - Fly Staight Dammit !](#a133058---fly-staight-dammit-)
+  * [A229037 - Forest Fire](#a229037---forest-fire)
   * [A265326 - Primes](#a265326---primes)
   * [A279125 - Rémy Sigrist](#a279125---rémy-sigrist)
 * [How to use this Code](#how-to-use-this-code)
@@ -73,6 +74,17 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
 
   OEIS page : <https://oeis.org/A133058>.  
   Amazing Graphs - Numberphile : <https://youtu.be/pAMgUB51XZA?t=96>.
+  
+* ### A229037 - Forest Fire
+
+ #### Scatterplot of A229037(n)
+  
+  ![A229037](illustration_images/A229037.png)
+  
+  #### Useful links
+
+  OEIS page : <https://oeis.org/A229037>.  
+  Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?t=217>.
   
 * ### A265326 - Primes
   
