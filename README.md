@@ -11,6 +11,7 @@ Programming and plotting graphs from the Numberphile *Amazing Graphs* series
   * [A063543 - Wisteria](#a063543---wisteria)
   * [A133058 - Fly Staight Dammit !](#a133058---fly-staight-dammit-)
   * [A265326 - Primes](#a265326---primes)
+  * [A279125 - Rémy Sigrist](#a279125---rémy-sigrist)
 * [How to use this Code](#how-to-use-this-code)
   * [Installing Matplotlib](#installing-matplotlib)
 
@@ -83,6 +84,17 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
 
   OEIS page : <https://oeis.org/A265326>.  
   Amazing Graphs - Numberphile : <https://youtu.be/pAMgUB51XZA?t=469>.
+
+* ### A279125 - Rémy Sigrist
+  
+  #### Scatterplot of A279125(n)
+  
+  ![A279125](illustration_images/A279125.png)
+  
+  #### Useful links
+
+  OEIS page : <https://oeis.org/A279125>.  
+  Amazing Graphs III - Numberphile : <https://youtu.be/j0o-pMIR8uk?t=369>.
   
 ## How to use this Code
 
