@@ -9,6 +9,7 @@ Programming and plotting graphs from the Numberphile *Amazing Graphs* series
   * [A002487 - Stern's Sequence](#a002487---sterns-sequence)
   * [A005185 - Hofstadter's Q Sequence](#a005185---hofstadters-q-sequence)
   * [A063543 - Wisteria](#a063543---wisteria)
+  * [A117966 - Balanced Ternary](#a117966---balanced-ternary)
   * [A133058 - Fly Staight Dammit !](#a133058---fly-staight-dammit-)
   * [A229037 - Forest Fire](#a229037---forest-fire)
   * [A265326 - Primes](#a265326---primes)
@@ -63,6 +64,17 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
 
   OEIS page : <https://oeis.org/A063543>.  
   Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?t=110>.
+  
+* ### A117966 - Balanced Ternary
+  
+  #### Scatterplot of A117966(n)
+  
+  ![A117966](illustration_images/A117966.png)
+  
+  #### Useful links
+
+  OEIS page : <https://oeis.org/A117966>.  
+  Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?>.  
 
 * ### A133058 - Fly Staight Dammit !
   
