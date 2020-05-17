@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 y = [1, 1]
 
-for i in range(2, 10000):
+for i in range(2, 10**5):
     y.append(y[i - y[i - 1]] + y[i - y[i - 2]])
 
 x = range(1, len(y) + 1)
