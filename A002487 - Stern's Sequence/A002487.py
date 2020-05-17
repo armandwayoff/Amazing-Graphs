@@ -2,11 +2,10 @@ import matplotlib.pyplot as plt
 
 y = [0, 1]
 
-for iter in range(15):
+for n in range(15):
     newY = []
     for i in range(len(y) - 1):
-        newY.append(y[i])
-        newY.append(y[i] + y[i + 1])
+        newY.extend((y[i], y[i] + y[i + 1]))
     newY.append(1)
     y = newY
 
