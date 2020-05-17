@@ -4,7 +4,7 @@ import sympy
 x = []
 y = []
 
-for i in range(100000):
+for i in range(10**5):
     if sympy.isprime(i):
         x.append(i)
         y.append(i - int(bin(i)[-1:1:-1], 2))
