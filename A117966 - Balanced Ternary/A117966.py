@@ -15,7 +15,7 @@ def a(n):
 
 
 y = []
-for i in range(100000):
+for i in range(10**5):
     y.append(a(i))
 
 x = range(len(y))
