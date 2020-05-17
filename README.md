@@ -122,7 +122,7 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
 ## How to use this Code
 
-To run my code, you will need the [Matplotlib](https://matplotlib.org/) library. Matplotlib is a complete library for creating static, animated and interactive visualizations in Python.
+To run this code, you will need the [Matplotlib](https://matplotlib.org/) library. Matplotlib is a complete library for creating static, animated and interactive visualizations in Python.
 
 ### Installing Matplotlib
 
