@@ -8,7 +8,7 @@ Programming and plotting graphs from the Numberphile *Amazing Graphs* series
 * [Presentation of the sequences](#presentation-of-the-sequences)
   * [A002487 - Stern's Sequence](#a002487---sterns-sequence)
   * [A005185 - Hofstadter's Q Sequence](#a005185---hofstadters-q-sequence)
-  * [A006577 - Number of Steps for N to Reach 1 in '3n+1' Problem (Bonus)](#a006577---number-of-steps-for-n-to-reach-1-(bonus))
+  * [A006577 - Number of Steps for N to Reach 1 in '3n+1' Problem (Bonus)](#a006577---number-of-steps-for-n-to-reach-1-in-3n1-problem-bonus)
   * [A063543 - Wisteria](#a063543---wisteria)
   * [A117966 - Balanced Ternary](#a117966---balanced-ternary)
   * [A133058 - Fly Staight Dammit !](#a133058---fly-staight-dammit-)
