@@ -56,6 +56,8 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   Amazing Graphs III - Numberphile : <https://youtu.be/j0o-pMIR8uk?t=116>.
   
 * ### A006577 - Number of Steps for N to Reach 1 in '3n+1' Problem (Bonus)
+  
+  ❕ This graph is not presented in Numberphile's trilogy but I still want to share it with you
 
   #### Scatterplot of A006577(n)
   
