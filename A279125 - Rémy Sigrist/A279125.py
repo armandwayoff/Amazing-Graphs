@@ -3,10 +3,10 @@ import matplotlib.pyplot as plt
 y = []
 
 
-def find_missing(lst):
-    lt = [x for x in range(lst[0], lst[-1] + 1)
-          if x not in lst]
-    return min(lt) if len(lt) > 0 else max(lst) + 1
+def smallest_missing_value_in(lst):
+    for x in range(min(lst), max(lst) + 2):
+        if x not in lst:
+            return x
 
 
 for n in range(1, 10 ** 3):
@@ -15,7 +15,7 @@ for n in range(1, 10 ** 3):
         for i in range(len(y)):
             if n & (i + 1) != 0:
                 taken_values.append(y[i])
-        y.append(find_missing(list(dict.fromkeys(taken_values))))
+        y.append(smallest_missing_value_in(list(dict.fromkeys(taken_values))))
     else:
         y.append(0)
 
