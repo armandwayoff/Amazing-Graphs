@@ -9,13 +9,15 @@ def find_missing(lst):
     return min(lt) if len(lt) > 0 else max(lst) + 1
 
 
-for n in range(1, 78):
-    if n & (n - 1) != 0:
-        delete = []
+for n in range(1, 10 ** 3):
+    if n & (n - 1) != 0:  # if n is not a power of two
+        taken_values = []
         for i in range(len(y)):
-            if n & (i + 1) != 0: delete.append(y[i])
-        y.append(find_missing(list(dict.fromkeys(delete))))
-    else: y.append(0)
+            if n & (i + 1) != 0:
+                taken_values.append(y[i])
+        y.append(find_missing(list(dict.fromkeys(taken_values))))
+    else:
+        y.append(0)
 
 x = range(1, len(y) + 1)
 plt.scatter(x, y, s=1)
