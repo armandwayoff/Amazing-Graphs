@@ -5,7 +5,7 @@ Programming and plotting graphs from the Numberphile *Amazing Graphs* series
 ## Table of Contents
 
 * [About the Project](#about-the-project)
-* [Presentation of the sequences](#presentation-of-the-sequences)
+* [Presentation of the Sequences](#presentation-of-the-sequences)
   * [A002487 - Stern's Sequence](#a002487---sterns-sequence)
   * [A005185 - Hofstadter's Q Sequence](#a005185---hofstadters-q-sequence)
   * [A006577 - Number of Steps for N to Reach 1 in '3n+1' Problem (Bonus)](#a006577---number-of-steps-for-n-to-reach-1-in-3n1-problem-bonus)
@@ -15,7 +15,7 @@ Programming and plotting graphs from the Numberphile *Amazing Graphs* series
   * [A229037 - Forest Fire](#a229037---forest-fire)
   * [A265326 - Primes](#a265326---primes)
   * [A279125 - Rémy Sigrist](#a279125---rémy-sigrist)
-* [How to use this Code](#how-to-use-this-code)
+* [How to Use This Code](#how-to-use-this-code)
   * [Installing Matplotlib](#installing-matplotlib)
 
 ## About the Project
@@ -39,7 +39,7 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
   ![A002487](illustration_images/A002487.png)
   
-  #### Useful links
+  #### Links
   
   OEIS page : <https://oeis.org/A002487>.  
   Amazing Graphs III - Numberphile : <https://youtu.be/j0o-pMIR8uk>.
@@ -50,7 +50,7 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
   ![A005185](illustration_images/A005185.png)
   
-  #### Useful links
+  #### Links
 
   OEIS page : <https://oeis.org/A005185>.  
   Amazing Graphs III - Numberphile : <https://youtu.be/j0o-pMIR8uk?t=116>.
@@ -63,7 +63,7 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
   ![A006577](illustration_images/A006577.png)
   
-  #### Useful links
+  #### Links
 
   OEIS page : <https://oeis.org/A006577>.  
   UNCRACKABLE? The Collatz Conjecture - Numberphile : <https://youtu.be/5mFpVDpKX70>.
@@ -74,7 +74,7 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
   ![A063543](illustration_images/A063543.png)
   
-  #### Useful links
+  #### Links
 
   OEIS page : <https://oeis.org/A063543>.  
   Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?t=110>.
@@ -85,7 +85,7 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
   ![A117966](illustration_images/A117966.png)
   
-  #### Useful links
+  #### Links
 
   OEIS page : <https://oeis.org/A117966>.  
   Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?>.  
@@ -96,7 +96,7 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
   ![A133058](illustration_images/A133058.png)
   
-  #### Useful links
+  #### Links
 
   OEIS page : <https://oeis.org/A133058>.  
   Amazing Graphs - Numberphile : <https://youtu.be/pAMgUB51XZA?t=96>.
@@ -107,7 +107,7 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
   ![A229037](illustration_images/A229037.png)
   
-  #### Useful links
+  #### Links
 
   OEIS page : <https://oeis.org/A229037>.  
   Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?t=217>.
@@ -118,7 +118,7 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
   ![A265326](illustration_images/A265326.png)
   
-  #### Useful links
+  #### Links
 
   OEIS page : <https://oeis.org/A265326>.  
   Amazing Graphs - Numberphile : <https://youtu.be/pAMgUB51XZA?t=469>.
@@ -129,12 +129,12 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
   ![A279125](illustration_images/A279125.png)
   
-  #### Useful links
+  #### Links
 
   OEIS page : <https://oeis.org/A279125>.  
   Amazing Graphs III - Numberphile : <https://youtu.be/j0o-pMIR8uk?t=369>.
   
-## How to use this Code
+## How to Use This Code
 
 To run this code, you will need the [Matplotlib](https://matplotlib.org/) library. Matplotlib is a complete library for creating static, animated and interactive visualizations in Python.
 
