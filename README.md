@@ -1,4 +1,4 @@
-# Amazing Graphs
+![repository_title](illustration_images/repository_title.png)
 
 Programming and plotting graphs from the Numberphile *Amazing Graphs* series
 
