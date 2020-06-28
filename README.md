@@ -103,7 +103,7 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   
 * ### A229037 - Forest Fire
 
- #### Scatterplot of A229037(n)
+  #### Scatterplot of A229037(n)
   
   ![A229037](illustration_images/A229037.png)
   
