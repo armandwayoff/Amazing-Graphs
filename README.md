@@ -1,4 +1,4 @@
-![repository_title](illustration_images/repository_title.png)
+<img src="illustration_images/repository_title.png" align="center"/>
 
 Programming and plotting graphs from the Numberphile *Amazing Graphs* series
 
