@@ -1,4 +1,4 @@
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/armandwayoff/Amazing-Graphs/blob/master/LICENSE)
 
 # Amazing Graphs
 
@@ -147,4 +147,4 @@ You will find all the information necessary for its installation on the followin
   
 ## License
 
-Distributed under the MIT License. See ```LICENSE``` for more information.
+Distributed under the MIT License. See [```LICENSE```](https://github.com/armandwayoff/Amazing-Graphs/blob/master/LICENSE) for more information.
