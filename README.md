@@ -1,6 +1,6 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/armandwayoff/Amazing-Graphs/blob/master/LICENSE)
 
-# Amazing Graphs
+![readme_title](readme_title.png)
 
 Programming and plotting graphs from the Numberphile *Amazing Graphs* series
 
