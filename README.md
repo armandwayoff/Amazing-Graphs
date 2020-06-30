@@ -1,3 +1,5 @@
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
 # Amazing Graphs
 
 Programming and plotting graphs from the Numberphile *Amazing Graphs* series
@@ -5,6 +7,8 @@ Programming and plotting graphs from the Numberphile *Amazing Graphs* series
 ## Table of Contents
 
 * [About the Project](#about-the-project)
+* [How to Use This Code](#how-to-use-this-code)
+  * [Installing Matplotlib](#installing-matplotlib)
 * [Presentation of the Sequences](#presentation-of-the-sequences)
   * [A002487 - Stern's Sequence](#a002487---sterns-sequence)
   * [A005185 - Hofstadter's Q Sequence](#a005185---hofstadters-q-sequence)
@@ -15,8 +19,7 @@ Programming and plotting graphs from the Numberphile *Amazing Graphs* series
   * [A229037 - Forest Fire](#a229037---forest-fire)
   * [A265326 - Primes](#a265326---primes)
   * [A279125 - Rémy Sigrist](#a279125---rémy-sigrist)
-* [How to Use This Code](#how-to-use-this-code)
-  * [Installing Matplotlib](#installing-matplotlib)
+* [License](#license)
 
 ## About the Project
 
@@ -30,6 +33,14 @@ Amazing Graphs trilogy :
   3. [Amazing Graphs III - Numberphile](https://youtu.be/j0o-pMIR8uk)
 
 Neil J. A. Sloane is known for having founded the OEIS, a book and then a website on which hundreds of thousands of mathematical sequences are referenced. I strongly encourage you to visit the [OEIS website](https://oeis.org/).
+
+## How to Use This Code
+
+To run this code, you will need the [Matplotlib](https://matplotlib.org/) library. Matplotlib is a complete library for creating static, animated and interactive visualizations in Python.
+
+### Installing Matplotlib
+
+You will find all the information necessary for its installation on the following page : <https://matplotlib.org/users/installing.html>
 
 ## Presentation of the Sequences
 
@@ -134,10 +145,6 @@ Neil J. A. Sloane is known for having founded the OEIS, a book and then a websit
   OEIS page : <https://oeis.org/A279125>.  
   Amazing Graphs III - Numberphile : <https://youtu.be/j0o-pMIR8uk?t=369>.
   
-## How to Use This Code
+## License
 
-To run this code, you will need the [Matplotlib](https://matplotlib.org/) library. Matplotlib is a complete library for creating static, animated and interactive visualizations in Python.
-
-### Installing Matplotlib
-
-You will find all the information necessary for its installation on the following page : <https://matplotlib.org/users/installing.html>
+Distributed under the MIT License. See ```LICENSE``` for more information.
