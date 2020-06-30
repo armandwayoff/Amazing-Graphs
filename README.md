@@ -2,7 +2,7 @@
 
 ![readme_title](readme_title.png)
 
-Programming and plotting graphs from the Numberphile *Amazing Graphs* series
+<p align="center">Programming and Plotting Graphs From the Numberphile <i>Amazing Graphs</i> Series</p>
 
 ## Table of Contents
 
