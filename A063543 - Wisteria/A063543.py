@@ -11,6 +11,7 @@ for i in range(1, 2000):
     y.append(i - product)
 
 x = range(1, len(y) + 1)
+plt.figure("A063543 - Wisteria")
 plt.scatter(x, y, s=0.3)
 plt.xlabel('n')
 plt.ylabel('A063543(n)')
