@@ -11,11 +11,11 @@ def smallest_missing_value_in(lst):
 
 for n in range(1, 10 ** 3):
     if n & (n - 1) != 0:  # if n is not a power of two
-        taken_values = []
+        taken_values = set()
         for i in range(len(y)):
             if n & (i + 1) != 0:
-                taken_values.append(y[i])
-        y.append(smallest_missing_value_in(list(set(taken_values))))
+                taken_values.add(y[i])
+        y.append(smallest_missing_value_in(taken_values))
     else:
         y.append(0)
 
