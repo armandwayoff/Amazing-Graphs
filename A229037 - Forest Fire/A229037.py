@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 
 y = []
 
-for n in range(10):
+for n in range(10 ** 4):
     i, j, b = 1, 1, set()
     while n - 2 * i >= 0:
         b.add(2 * y[n - i] - y[n - 2 * i])
@@ -15,6 +15,7 @@ for n in range(10):
     y.append(j)
 
 x = range(1, len(y) + 1)
+plt.figure("A229037 - Forest Fire")
 plt.scatter(x, y, s=0.5)
 plt.xlabel('n')
 plt.ylabel('A229037(n)')
