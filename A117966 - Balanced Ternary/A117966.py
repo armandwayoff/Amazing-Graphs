@@ -15,10 +15,12 @@ def a(n):
 
 
 y = []
-for i in range(10**5):
+
+for i in range(10 ** 5):
     y.append(a(i))
 
 x = range(len(y))
+plt.figure("A117966 - Balanced Ternary")
 plt.scatter(x, y, s=0.1)
 plt.xlabel('n')
 plt.ylabel('A117966(n)')
