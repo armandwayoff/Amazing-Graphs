@@ -10,6 +10,7 @@ for n in range(15):
     y = newY
 
 x = range(len(y))
+plt.figure("A002487 - Stern's Sequence")
 plt.scatter(x, y, s=0.5)
 plt.xlabel('n')
 plt.ylabel('A002487(n)')
