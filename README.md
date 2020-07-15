@@ -16,7 +16,7 @@
   * [A006577 - Number of Steps for N to Reach 1 in '3n+1' Problem (Bonus)](#a006577---number-of-steps-for-n-to-reach-1-in-3n1-problem-bonus)
   * [A063543 - Wisteria](#a063543---wisteria)
   * [A117966 - Balanced Ternary](#a117966---balanced-ternary)
-  * [A133058 - Fly Staight Dammit !](#a133058---fly-staight-dammit-)
+  * [A133058 - Fly straight, dammit !](#a133058---fly-straight-dammit-)
   * [A229037 - Forest Fire](#a229037---forest-fire)
   * [A265326 - Primes](#a265326---primes)
   * [A279125 - Rémy Sigrist](#a279125---rémy-sigrist)
@@ -102,7 +102,7 @@ You will find all the information necessary for its installation on the followin
   OEIS page : <https://oeis.org/A117966>.  
   Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?>.  
 
-* ### A133058 - Fly Staight Dammit !
+* ### A133058 - Fly straight, dammit !
   
   #### Scatterplot of A133058(n)
   
