@@ -1,8 +1,7 @@
 import matplotlib.pyplot as plt
 import sympy
 
-x = []
-y = []
+x, y = [], []
 
 for i in range(10 ** 5):
     if sympy.isprime(i):
