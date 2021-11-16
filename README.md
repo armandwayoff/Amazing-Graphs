@@ -49,7 +49,7 @@ You will find all the information necessary for its installation on the followin
 
   #### Scatterplot of A002487(n)
   
-  ![A002487](illustration_images/A002487.png)
+  ![A002487](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A002487%20-%20Stern's%20Sequence/A002487.png)
   
   #### Links
   
@@ -60,7 +60,7 @@ You will find all the information necessary for its installation on the followin
   
   #### Scatterplot of A005185(n)
   
-  ![A005185](illustration_images/A005185.png)
+  ![A005185](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A005185%20-%20Hofstadter's%20Q%20Sequence/A005185.png)
   
   #### Links
 
@@ -73,7 +73,7 @@ You will find all the information necessary for its installation on the followin
 
   #### Scatterplot of A006577(n)
   
-  ![A006577](illustration_images/A006577.png)
+  ![A006577](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A006577%20-%20Number%20of%20Steps%20for%20N%20to%20Reach%201%20in%20'3n%2B1'%20Problem%20(Bonus)/A006577.png)
   
   #### Links
 
@@ -84,7 +84,7 @@ You will find all the information necessary for its installation on the followin
   
   #### Scatterplot of A063543(n)
   
-  ![A063543](illustration_images/A063543.png)
+  ![A063543](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A063543%20-%20Wisteria/A063543.png)
   
   #### Links
 
@@ -95,7 +95,7 @@ You will find all the information necessary for its installation on the followin
   
   #### Scatterplot of A117966(n)
   
-  ![A117966](illustration_images/A117966.png)
+  ![A117966](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A117966%20-%20Balanced%20Ternary/A117966.png)
   
   #### Links
 
@@ -106,7 +106,7 @@ You will find all the information necessary for its installation on the followin
   
   #### Scatterplot of A133058(n)
   
-  ![A133058](illustration_images/A133058.png)
+  ![A133058](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A133058%20-%20Fly%20Staight%20Dammit!/A133058.png)
   
   #### Links
 
@@ -117,7 +117,7 @@ You will find all the information necessary for its installation on the followin
 
   #### Scatterplot of A229037(n)
   
-  ![A229037](illustration_images/A229037.png)
+  ![A229037](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A229037%20-%20Forest%20Fire/A229037.png)
   
   #### Links
 
@@ -128,7 +128,7 @@ You will find all the information necessary for its installation on the followin
   
   #### Scatterplot of A265326(n)
   
-  ![A265326](illustration_images/A265326.png)
+  ![A265326](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A265326%20-%20Primes/A265326.png)
   
   #### Links
 
@@ -139,7 +139,7 @@ You will find all the information necessary for its installation on the followin
   
   #### Scatterplot of A279125(n)
   
-  ![A279125](illustration_images/A279125.png)
+  ![A279125](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A279125%20-%20R%C3%A9my%20Sigrist/A279125.png)
   
   #### Links
 
