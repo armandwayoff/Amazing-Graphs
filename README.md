@@ -47,6 +47,17 @@ You will find all the information necessary for its installation on the followin
 
 * ### A002487 - Stern's Sequence
 
+$$a_0 = 0, \quad a_1 = 1,$$
+
+$$
+\forall n \in \mathbb{N}^\star,
+\begin{cases}
+a_{2n} &= a_n \\ 
+a_{2n+1} &= a_{n+1} + a_n
+\end{cases}
+.
+$$
+
   #### Scatterplot of A002487(n)
   
   ![A002487](https://github.com/armandwayoff/Amazing-Graphs/blob/master/A002487%20-%20Stern's%20Sequence/A002487.png)
@@ -57,6 +68,10 @@ You will find all the information necessary for its installation on the followin
   Amazing Graphs III - Numberphile : <https://youtu.be/j0o-pMIR8uk>.
   
 * ### A005185 - Hofstadter's Q Sequence
+
+$$a_1 = a_2 = 1,$$
+
+$$\forall n > 2, a_n = a_{n - a_{n-1}} + a_{n - a_{n-2}}.$$
   
   #### Scatterplot of A005185(n)
   
@@ -81,6 +96,8 @@ You will find all the information necessary for its installation on the followin
   UNCRACKABLE? The Collatz Conjecture - Numberphile : <https://youtu.be/5mFpVDpKX70>.
   
 * ### A063543 - Wisteria
+
+$$ a_n = n - \text{product of nonzero digits of } n.$$
   
   #### Scatterplot of A063543(n)
   
@@ -103,6 +120,17 @@ You will find all the information necessary for its installation on the followin
   Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?>.  
 
 * ### A133058 - Fly straight, dammit !
+
+$$a_0 = a_1 = 1$$
+
+$$
+\forall n > 1,
+\begin{cases}
+a_n &= a_{n-1} + n + 1 &\text{if $a_{n-1}$ and $n$ are coprime} \\ 
+a_n &= \displaystyle \frac{a_{n-1}}{\mathrm{gcd}(a_{n-1}, n)} &\text{otherwise}
+\end{cases}
+.
+$$
   
   #### Scatterplot of A133058(n)
   
@@ -125,6 +153,8 @@ You will find all the information necessary for its installation on the followin
   Amazing Graphs II (including Star Wars) - Numberphile : <https://youtu.be/o8c4uYnnNnc?t=217>.
   
 * ### A265326 - Primes
+
+$$ n\text{-th prime minus its binary reversal}.$$
   
   #### Scatterplot of A265326(n)
   
