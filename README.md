@@ -121,7 +121,7 @@ $$ a_n = n - \text{product of nonzero digits of } n.$$
 
 * ### A133058 - Fly straight, dammit !
 
-$$a_0 = a_1 = 1$$
+$$a_0 = a_1 = 1,$$
 
 $$
 \forall n > 1,
